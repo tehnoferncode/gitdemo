@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\Training center data\fullstackjava\GitL\.metadata\.plugins\org.eclipse.jdt.core
+1849391376.index
+3187174149.index
+1865797976.index
